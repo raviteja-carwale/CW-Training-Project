@@ -1,0 +1,10 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\Training.Caching.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\Training.Caching.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\Enyim.Caching.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\Enyim.Caching.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\Enyim.Caching.xml
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\obj\Debug\Training.Caching.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\obj\Debug\Training.Caching.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\obj\Debug\Training.Caching.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Caching\bin\Debug\DataEntities.pdb

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Ravi Teja</title>
+    <meta name="viewport" content="width=device-width" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.0/knockout-min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    @Styles.Render("~/Content/Site.css")
+</head>
+<body>
+    <nav>
+        <ul class="menu-list">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">About</a></li>
+            <li class="contact">
+                <a href="#">Contact</a>
+                <ul class="contact-list">
+                    <li><a href="#">Advertising</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <h1>Sample Website</h1>
+
+    <div class="quick_links">
+        <aside>
+            <ul>
+                <li><span>-</span>Quicklinks 1</li>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+                <li><a href="#">Link 4</a></li>
+                <li><a href="#">Link 5</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    @RenderBody()
+    @Scripts.Render("~/Scripts/MainScript.js")
+
+
+    <div id="foot">
+        <p>By:</p>
+        <p>M.S. Ravi Teja</p>
+        <p>e-Mail: <a href="mailto:ravi.teja@carwale.com?Subject=Hello%Raviteja" target="_top">ravi.teja@carwale.com</a></p>
+    </div>
+</body>
+</html>
+
+<footer>
+    Copyright &copy 2016.
+</footer>

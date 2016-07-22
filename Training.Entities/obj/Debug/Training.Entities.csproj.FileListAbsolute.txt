@@ -1,0 +1,10 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataEntities\obj\Debug\Training.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Entities\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Entities\bin\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Entities\obj\Debug\Training.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Entities\obj\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Entities\obj\Debug\DataEntities.pdb

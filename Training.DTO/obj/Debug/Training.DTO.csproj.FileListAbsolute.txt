@@ -1,0 +1,7 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\bin\Debug\Training.DTO.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\bin\Debug\Training.DTO.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\bin\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\obj\Debug\Training.DTO.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\obj\Debug\Training.DTO.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.DTO\obj\Debug\Training.DTO.pdb

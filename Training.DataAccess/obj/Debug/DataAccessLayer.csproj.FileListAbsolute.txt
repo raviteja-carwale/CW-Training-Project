@@ -1,0 +1,10 @@
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\MySql.Data.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TrainingProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TrainingProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\DataAccessLayer\bin\Debug\Dapper.xml

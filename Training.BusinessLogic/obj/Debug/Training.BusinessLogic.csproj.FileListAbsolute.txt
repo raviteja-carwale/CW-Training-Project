@@ -1,0 +1,16 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Training.BusinessLogic.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Training.BusinessLogic.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Dapper.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\DataEntities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Dapper.xml
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\obj\Debug\Training.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\obj\Debug\Training.BusinessLogic.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\obj\Debug\Training.BusinessLogic.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Training.Caching.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Training.Caching.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Enyim.Caching.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Enyim.Caching.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.BusinessLogic\bin\Debug\Enyim.Caching.xml

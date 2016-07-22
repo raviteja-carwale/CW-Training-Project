@@ -1,0 +1,84 @@
+﻿<section>
+    <h2>Welcome to our Sample Profile Page.</h2>
+    <form class="data-form" id="dataForm" data-bind="with:dataForm" onsubmit="return false">
+        <table border="0">
+
+            <tr>
+                <td><h3>Create a User Profile</h3></td>
+                <td><span id="loader" hidden></span></td>
+            </tr>
+            <tr>
+                <td><label for="fname" class="formLabel">First Name: </label></td>
+                <td>
+                    <input type="text" name="fname" id="firstName" data-bind="value: firstName" maxlength="20">
+                </td>
+            </tr>
+            <tr>
+                <td><label for="lname" class="formLabel">Last Name: </label></td>
+                <td>
+                    <input type="text" name="lname" id="lastName" data-bind="value: lastName" maxlength="20">
+                </td>
+            </tr>
+            <tr>
+                <td><label class="formLabel">Date of Birth: </label></td>
+                <td>
+                    <input type="date" name="dateOfBirth" id="dateOfBirth" data-bind="value: dateOfBirth">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label class="formLabel">Gender: </label>
+                </td>
+                <td>
+                    <input type="radio" name="gender" id="Male" value="Male" data-bind="checked: gender">
+                    <label for="Male">Male</label>
+                    <input type="radio" name="gender" id="Female" value="Female" data-bind="checked: gender">
+                    <label for="Female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button name="save" id="save" data-bind="click:addUser">Save</button>
+                    <button type="reset" name="reset" id="reset" onclick="resetForm();">Reset</button>
+                    <button name="update" id="update" data-bind="click:updateUser" hidden>Update</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <div class="successMsg" id="successMsg"></div>
+    <div class="errorMsg" id="errorMsg"></div>
+
+    <h3>User Profiles list:</h3>
+    <table id="usersTable" border="1" cellpadding="0" cellspacing="0">
+        <thead>
+            <tr>
+                <th colno="2" data-bind="click:orderByColumn">First Name</th>
+                <th colno="3" data-bind="click:orderByColumn">Last Name</th>
+                <th colno="4" data-bind="click:orderByColumn">Date of Birth</th>
+                <th colno="5" data-bind="click:orderByColumn">Gender</th>
+                <th colno="1" data-bind="click:orderByColumn"></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody id="tableUsers" data-bind="foreach:Users">
+            <tr>
+                <td class="" data-bind="text:$data.firstName"></td>
+                <td class="" data-bind="text:$data.lastName"></td>
+                <td class="" data-bind="text:$data.dateOfBirth"></td>
+                <td class="" data-bind="text:$data.gender"></td>
+                <td><a href="" data-bind="click:fillForm">Edit</a></td>
+                <td><a href="" data-bind="click:deleteUser">Delete</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div id="page_navigation">
+        <input type="hidden" id="current_page" value="1" />
+        <a class="nextbutton" id="prevButton" href="javascript:previous();">« Prev&nbsp;</a>&nbsp;
+        <span id="pager"></span>
+        <a class="nextbutton" id="nextButton" href="javascript:next();">Next »</a>
+    </div>
+
+</section>

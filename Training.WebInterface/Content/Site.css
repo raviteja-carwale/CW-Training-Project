@@ -1,0 +1,281 @@
+﻿.menu-list {
+    margin-left: -50px;
+    background-color: #e1e1e1;
+}
+
+    .menu-list li {
+        list-style-type: none;
+        margin: 20px;
+        padding: 0px;
+        background-color: #e1e1e1;
+        display: inline-block;
+        position: relative;
+    }
+
+    .menu-list a:hover {
+        background-color: #333;
+        color: #fff;
+    }
+
+.contact:hover .contact-list {
+    display: block;
+    position: absolute;
+    margin-left: -50px;
+}
+
+.contact-list {
+    display: none;
+}
+
+    .contact-list li {
+        margin: 0px;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        display: block;
+        border: 1px solid #ccc;
+    }
+
+.quick_links {
+    float: left;
+}
+
+    .quick_links ul {
+        border: 1px solid #ccc;
+        padding: 10px;
+        width: 250px;
+    }
+
+    .quick_links li {
+        list-style-type: none;
+        margin: 5px;
+        background-color: #fff;
+    }
+
+    .quick_links a {
+        text-decoration: none;
+        margin: 30px;
+        color: #000;
+    }
+
+        .quick_links a:hover {
+            color: blue;
+            font-weight: bold;
+        }
+
+    .quick_links span {
+        padding: 5px;
+    }
+
+h2 {
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+section {
+    float: left;
+    width: 600px;
+}
+
+.data-form {
+    margin-left: 30px;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+    .data-form p {
+        padding-left: 10px;
+    }
+
+    .data-form button {
+        padding: 5px;
+        color: blue;
+        border: 1px solid #999;
+        background-color: #999;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+
+        .data-form button:hover {
+            color: #fff;
+            background-color: #222;
+            cursor: pointer;
+        }
+
+.formLabel {
+    font-weight: bold;
+    text-align: right;
+}
+
+form table {
+    width: 100%;
+}
+
+    form table td {
+        border-bottom: 1px solid #ccc;
+        padding: 5px;
+        padding-left: 10px;
+    }
+
+    form table tr:last-child td {
+        border: 0px;
+        text-align: center;
+    }
+
+#usersTable {
+    width: 700px;
+    margin: 30px;
+    border: 1px solid #ccc;
+}
+
+    #usersTable a {
+        color: blue;
+    }
+
+        #usersTable a:visited {
+            color: blue;
+        }
+
+    #usersTable th {
+        background-color: #333;
+        color: #fff;
+        cursor: default;
+    }
+
+    #usersTable td, th {
+        border-collapse: collapse;
+        border: 1px solid #ccc;
+        padding: 7px;
+    }
+
+    #usersTable tr:nth-child(even) {
+        background-color: #ccc;
+    }
+
+    #usersTable tr:hover {
+        background-color: lightblue;
+    }
+
+.numericButton {
+    background-color: #FFFFFF;
+    color: #222;
+    border: 1px solid #444;
+    display: inline-block;
+    height: 15px;
+    line-height: 14px;
+    min-width: 14px !important;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.currentPageButton {
+    background-color: #686868;
+    color: #fff !important;
+    border: 1px solid #888;
+    display: inline-block;
+    height: 15px;
+    line-height: 14px;
+    min-width: 14px !important;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nextbutton {
+    background-color: #FFFFFF;
+    border: 1px solid #444;
+    color: #222 !important;
+    display: inline-block;
+    height: 15px;
+    line-height: 14px;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    width: 55px;
+}
+
+#nextButton {
+    position: relative;
+    right: -150px;
+}
+
+#prevButton {
+    position: relative;
+    left: -150px;
+}
+
+#page_navigation {
+    width: 700px;
+    padding-top: 8px;
+    margin-bottom: 100px;
+    position: relative;
+    text-align: center;
+}
+
+
+#loader {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #000;
+    padding: 5px;
+    border-radius: 8px;
+    color: red;
+}
+
+.errorMsg {
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+    background: #e8de30;
+    margin-left: 30px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.successMsg {
+    color: blue;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 10px;
+    padding-left: 10px;
+    background: #6bf235;
+}
+
+.highlighted {
+    background: #c7f73b;
+    border: 2px solid black;
+}
+
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    border-top: 1px solid #999;
+    text-align: center;
+    background-color: #fff;
+}
+
+#foot {
+    border: 1px solid #999;
+    width: 250px;
+    position: fixed;
+    right: 10px;
+    bottom: 50px;
+    padding: 20px;
+}
+
+    #foot p {
+        font-size: 15px;
+        font-family: cursive;
+    }

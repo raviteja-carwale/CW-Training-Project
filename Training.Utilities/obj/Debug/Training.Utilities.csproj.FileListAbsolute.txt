@@ -1,0 +1,7 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\bin\Debug\Training.Utilities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\bin\Debug\Training.Utilities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\obj\Debug\Training.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\obj\Debug\Training.Utilities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\obj\Debug\Training.Utilities.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\bin\Debug\DataEntities.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\TrainingProject\Training.Utilities\bin\Debug\DataEntities.pdb
